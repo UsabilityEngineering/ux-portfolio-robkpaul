@@ -8,4 +8,4 @@ Coming soon.
 
 ## UX Journal
 
-[Read about my experience with Bash](j01/)
+[Death by 1000 Email Filters](j01/)
