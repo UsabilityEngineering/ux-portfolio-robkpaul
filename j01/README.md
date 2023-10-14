@@ -4,9 +4,6 @@ by Robert Paul, 10/11/2023
 
 Once you reach a terminal mass of accounts on various websites, it becomes pretty essential that you start filtering your emails. Recently, I have found myself careening into such a state, where the amount of emails I get on a given day between personal, account updates, and online order updates reaches well above 15 emails every day. 
 
-## The Easy Solution
-
-
 The first solution was Google's aliasing function, where you can add a '+' to the email address, then an extra word. You can then search for emails sent to that email, then create a filter from the search. 
 
 ![Searching  the inbox](../assets/j01-01.png)
