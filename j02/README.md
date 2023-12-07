@@ -1,6 +1,7 @@
 # Default Apps
 
 During the semester, I work at Chico State's ITSS, solving user issues through remote support daily. Without fail, at least once a week, trying to change the default apps on their computer will thwart a user, and land them in a remote support session with me. Let's take a look at why.
+
 ![Windows 10 default apps settings page](../assets/j02-01.png)
 
 There are 3 main reasons to visit this page: changing the email application, changing the browser, and changing the pdf reader. 
