@@ -1,14 +1,13 @@
 # Default Apps
 
 During the semester, I work at Chico State's ITSS, solving user issues through remote support daily. Without fail, at least once a week, trying to change the default apps on their computer will thwart a user, and land them in a remote support session with me. Let's take a look at why.
-
 ![Windows 10 default apps settings page](../assets/j02-01.png)
 
 There are 3 main reasons to visit this page: changing the email application, changing the browser, and changing the pdf reader. 
 
 ## Email
 
-Changing your email application is the most straightforward of the options, presenting you with the current option, then allowing you to change it by clicking, and presenting you with the installed options. We do get the first inkling of an issue with **Efficiency** here, if your app is not listed you can only choose another option from the Microsoft app store, not any other installed app.
+Changing your email application is the most straightforward of the options, presenting you with the current option, then allowing you to change it by clicking, and presenting you with the installed options. We do get the first inkling of an issue with **efficiency** here, if your app is not listed you can only choose another option from the Microsoft app store, not any other installed app.
 
 ![Default app selection pop-up](../assets/j02-02.png)
 
@@ -18,7 +17,7 @@ By default the browser in Windows 10 is set to Microsoft's own browser, Microsof
 
 ![Before you switch pop-up on browser switch](../assets/j02-03.png)
 
-While this pop-up seems innocuous, it uses a **call-to-action** button to direct users to keep Microsoft Edge as their browser, even though they have already clicked another browser. One more issue exists with their implementation. Windows 10 has a search function that can be accessed in the toolbar. Typically, this is used to search for apps or files on the PC, but can also be used to search the internet. A user's **cognitive model** may dictate that searching the internet using this dialogue would open in their default browser, however it will always open with Edge, unless the default browser is set to the 3rd party Open Source solution of [edge deflector](https://github.com/da2x/EdgeDeflector), which was recently sabotaged by Microsoft.
+While this pop-up seems innocuous, it uses a **call-to-action** button to direct users to keep Microsoft Edge as their browser, even though they have already clicked another browser. One more issue exists with their implementation. Windows 10 has a search function that can be accessed in the toolbar. Typically, this is used to search for apps or files on the PC, but can also be used to search the internet. A user's **cognitive model** may dictate that searching the internet using this dialogue would open in their default browser, however it will always open with Edge, unless the default browser is set to the 3rd party Open Source solution of [edge deflector](https://github.com/da2x/EdgeDeflector), which was recently sabotaged by Microsoft, killing opportunity for user  choice.
 
 ## PDF Reader
 
